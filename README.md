@@ -9,8 +9,16 @@
 - [ClickBUY](https://clickbuyweb.netlify.app/), é uma versão aprimorada do projeto anterior, chamado clickStore. Utilizando uma combinação de HTML, CSS e JavaScript, juntamente com a API do Mercado Livre, o clickBuy oferece aos usuários uma experiência de compras online aprimorada, permitindo que eles adquiram produtos com um simples clique.
 
 #### 2023
+<<<<<<< HEAD
 - [ClickStore](https://clickstore.netlify.app/), é um projeto que combina HTML, CSS, JavaScript e a API do Mercado Livre para criar uma loja online simples onde os usuários podem pesquisar e visualizar produtos disponíveis no Mercado Livre.
 - [SuperCarros](https://carzonedemo.netlify.app/), é um projeto que exibe um catálogo de vários modelos de carros. Nele exploramos o uso de modais com JS.
 - [Task-List](https://minhagenda.netlify.app/), é uma aplicação web desenvolvida com JS que permite aos usuários agendar e gerenciar suas tarefas
 - [Spotify-Clone](https://spotifyduo.netlify.app/), é um clone do site do Spotify usando HTML, CSS com Flexbox para o layout responsivo.
 - [frontfolio](https://app.netlify.com/sites/frontfolio/), é um template de portfólio front-end para web, desenvolvido especialmente para facilitar a vida dos desenvolvedores.
+=======
+- [ ClickStore](https://clickstore.netlify.app/), é um projeto que combina HTML, CSS, JavaScript e a API do Mercado Livre para criar uma loja online simples onde os usuários podem pesquisar e visualizar produtos disponíveis no Mercado Livre.
+- [ SuperCarros](https://carzonedemo.netlify.app/), é um projeto que exibe um catálogo de vários modelos de carros. Nele exploramos o uso de modais com JS.
+- [ Task-List](https://minhagenda.netlify.app/), é uma aplicação web desenvolvida com JS que permite aos usuários agendar e gerenciar suas tarefas
+- [ Spotify-Clone](https://spotifyduo.netlify.app/), é um clone do site do Spotify usando HTML, CSS com Flexbox para o layout responsivo.
+- [ frontfolio](https://frontfolio.netlify.app/), é um template de portfólio front-end para web, desenvolvido especialmente para facilitar a vida dos desenvolvedores.
+>>>>>>> 728769d41d36e941d70b6213b5c72b9d9a9f8d1e
