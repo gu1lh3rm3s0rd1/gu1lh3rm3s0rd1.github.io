@@ -13,4 +13,4 @@
 - [SuperCarros](https://carzonedemo.netlify.app/), é um projeto que exibe um catálogo de vários modelos de carros. Nele exploramos o uso de modais com JS.
 - [Task-List](https://minhagenda.netlify.app/), é uma aplicação web desenvolvida com JS que permite aos usuários agendar e gerenciar suas tarefas
 - [Spotify-Clone](https://spotifyduo.netlify.app/), é um clone do site do Spotify usando HTML, CSS com Flexbox para o layout responsivo.
-- [frontfolio](https://app.netlify.com/sites/frontfolio/), é um template de portfólio front-end para web, desenvolvido especialmente para facilitar a vida dos desenvolvedores.
+- [frontfolio](https://frontfolio.netlify.app/), é um template de portfólio front-end para web, desenvolvido especialmente para facilitar a vida dos desenvolvedores.
