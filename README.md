@@ -4,7 +4,7 @@
 - [guilhermebenjamin.me](http://guilhermebenjamin.me/), é o landing page deste site.
 - [blog-django](http://3.135.146.163/blog/), é uma apliação web desenvolvida com Django Rest Framework para fazer posts num blog.
 - [TaskHub](https://github.com/gu1lh3rm3s0rd1/TaskHub), é uma aplicação desenvolvida com Node e EJS para criar um CRUD de tarefas.
-- [backfolio](http://guilhermebenjamin.me/backfolio/), é uma página desenvolvida inicialmente para ser um portifólio de programação, a ideia era utilizar a renderização de README e criar a página. Optei por deixar este site publicado como exemplo para quem quiser usar.
+- [backfolio](http://guilhermebenjamin.me/backfolio/), é uma página desenvolvida inicialmente para ser um portfólio de programação, a ideia era utilizar a renderização de README e criar a página. Optei por deixar este site publicado como exemplo para quem quiser usar.
 - [ClickBUY](https://clickbuyweb.netlify.app/), é uma versão aprimorada do projeto anterior, chamado clickStore. Utilizando uma combinação de HTML, CSS e JavaScript, juntamente com a API do Mercado Livre, o clickBuy oferece aos usuários uma experiência de compras online aprimorada, permitindo que eles adquiram produtos com um simples clique.
 
 #### 2023
